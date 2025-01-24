@@ -1,0 +1,15 @@
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\bin\Debug\ZZZ_FRT_Lines.exe.config
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\bin\Debug\ZZZ_FRT_Lines.exe
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\bin\Debug\ZZZ_FRT_Lines.pdb
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\bin\Debug\Dapper.dll
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\bin\Debug\Dapper.xml
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.csprojAssemblyReference.cache
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.Properties.Resources.resources
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.csproj.GenerateResource.cache
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.csproj.CoreCompileInputs.cache
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.csproj.CopyComplete
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.exe
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.pdb
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.FormMain.resources
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.ZZZFRT_Form.resources
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\obj\Debug\PartPerDay_Form.PartPerDay_Form.resources

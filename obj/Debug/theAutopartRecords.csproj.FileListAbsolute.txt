@@ -1,0 +1,207 @@
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\bin\Debug\ZZZ_FRT_Lines.exe.config
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\bin\Debug\ZZZ_FRT_Lines.exe
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\bin\Debug\ZZZ_FRT_Lines.pdb
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\bin\Debug\Dapper.dll
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\bin\Debug\Dapper.xml
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\obj\Debug\theAutopartRecords.csprojAssemblyReference.cache
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.FormMain.resources
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\obj\Debug\PartPerDay_Form.PartPerDay_Form.resources
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.ZZZFRT_Form.resources
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.Properties.Resources.resources
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\obj\Debug\theAutopartRecords.csproj.GenerateResource.cache
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\obj\Debug\theAutopartRecords.csproj.CoreCompileInputs.cache
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\obj\Debug\theAutopartRecords.csproj.CopyComplete
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.exe
+C:\Users\adodge\source\repos\FormUI\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.pdb
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\Debug\Dapper.dll
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\Debug\Dapper.xml
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\PartPerDay_Form.PartPerDay_Form.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.Properties.Resources.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\theAutopartRecords.csproj.GenerateResource.cache
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\theAutopartRecords.csproj.CoreCompileInputs.cache
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\theAutopartRecords.csproj.CopyComplete
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\Debug\System.Management.Automation.dll
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\Fuse5Export.Fuse5Export_Form.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\Debug\the Autopart Apparatus.exe.config
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\Debug\the Autopart Apparatus.exe
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\Debug\the Autopart Apparatus.pdb
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\BR60generated.BR60GeneratedLines_Form.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\BranchRebates.BranchRebates_Form.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\MMMPoS.MMMPoS.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\FillRate.FillRateReport.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\AutologuePricing.AutologuePriceBuilder.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\SetStock.SetStock.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\WIXreport.WIXReport.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\FVBC.FVBC.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\FormMain3.FormMain3.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\LastReceived.LastReceived.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\OnBOonSU.OnBOonPO.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\GetReturnNote.getReturnNote.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\TRGorder.TRGorder.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\PasswordForm.PasswordForm.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\FormMain9.FormMain9.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\MonthEndForm.MonthEndForm.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\FormMain7.FormMain7.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\QueryResults.QueryResults.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\QueryBuilder.QueryBuilder.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\Information.Information.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\GetBR60BOs.GetBR60BOs.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\GetBR30BOs.GetBR30BOs.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\Login_Form.LoginForm.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\OnHandOnPo_Form.OnHandOnPO_Form.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\FormMain8.FormMain8.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\PaintVsSandpaper_Form.PaintVsSandpaper_Form.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\the Autopart Apparatus.exe
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\the Autopart Apparatus.pdb
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\CalandarOrders.calandarOrdersForm.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\expiringMNDates.getExpiringMNDates.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\MinMaxParams.MinMaxParams.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\CostPriceRules.CostPriceRulesPG.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\GetUPCs.GetUPCs.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\productDataImport.productDataForm.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\StockLevelling.StockLevelling.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.SalesRank.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.stocklevellingForm.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.BR60GenLines_Fulfillment.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.IOT_Form.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.importIOT.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.ProductReclasification.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.MinMaxRequests.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.IsPart.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.reclassHistory.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\Debug\SolrNet.dll
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\Debug\System.IO.Packaging.dll
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\Debug\System.ValueTuple.dll
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\Debug\SolrNet.xml
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\Debug\System.ValueTuple.xml
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.StockLevelling_New.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.MinMaxAttendant.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.P55SalesCriteriaForm.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.CountSold.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.getSpecialTerms.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.StkValMonthly.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.getPGbyPrimeSupplier.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.getMonthlyUsageByBranch.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.getMonthlyUsageByBranchGroup.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.getCustomerXRefs.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.getProductVals.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.DeleteSpecialTerms.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.DataTableContentsForm.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.wmsSort.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.SPS.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.LeftvsRight.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\Debug\Aspose.PDF.dll
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\Debug\Aspose.PDF.xml
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\Debug\System.IO.Packaging.xml
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.WebSalesLast6.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\FormMain6.FormMain6.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.defaultSupplier_MultiPO.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.Multi_PO.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\theAutopartRecords.csproj.AssemblyReference.cache
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.QuoteCreator.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.kitdetail.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.BranchTransfer.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\SOR.SOR.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\theAutopartRecords.csproj.SuggestedBindingRedirects.cache
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.Form3.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\bin\Debug\the Autopart Apparatus.exe.config
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\bin\Debug\the Autopart Apparatus.exe
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\bin\Debug\the Autopart Apparatus.pdb
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\bin\Debug\Aspose.PDF.dll
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\bin\Debug\Dapper.dll
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\bin\Debug\SolrNet.dll
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\bin\Debug\System.IO.Packaging.dll
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\bin\Debug\System.Management.Automation.dll
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\bin\Debug\System.ValueTuple.dll
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\bin\Debug\Aspose.PDF.xml
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\bin\Debug\Dapper.xml
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\bin\Debug\SolrNet.xml
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\bin\Debug\System.IO.Packaging.xml
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\bin\Debug\System.ValueTuple.xml
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\theAutopartRecords.csproj.AssemblyReference.cache
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\theAutopartRecords.csproj.SuggestedBindingRedirects.cache
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\BR60generated.BR60GeneratedLines_Form.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\BranchRebates.BranchRebates_Form.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\MMMPoS.MMMPoS.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\FillRate.FillRateReport.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\AutologuePricing.AutologuePriceBuilder.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\CalandarOrders.calandarOrdersForm.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\CostPriceRules.CostPriceRulesPG.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.CountSold.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.DeleteSpecialTerms.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.DataTableContentsForm.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.defaultSupplier_MultiPO.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.kitdetail.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.BranchTransfer.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.QuoteCreator.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.Multi_PO.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\FormMain6.FormMain6.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.WebSalesLast6.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.LeftvsRight.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.SPS.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.wmsSort.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.getProductVals.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.getCustomerXRefs.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.getMonthlyUsageByBranch.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.getMonthlyUsageByBranchGroup.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.getPGbyPrimeSupplier.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.getSpecialTerms.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.P55SalesCriteriaForm.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.MinMaxAttendant.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.StkValMonthly.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.StockLevelling_New.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.reclassHistory.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.IsPart.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.MinMaxRequests.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.ProductReclasification.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\SOR.SOR.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.importIOT.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.IOT_Form.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.BR60GenLines_Fulfillment.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.stocklevellingForm.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.SalesRank.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\StockLevelling.StockLevelling.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\productDataImport.productDataForm.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\GetUPCs.GetUPCs.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\MinMaxParams.MinMaxParams.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\expiringMNDates.getExpiringMNDates.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\SetStock.SetStock.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\WIXreport.WIXReport.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\FVBC.FVBC.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\FormMain3.FormMain3.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\LastReceived.LastReceived.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\OnBOonSU.OnBOonPO.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\GetReturnNote.getReturnNote.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\TRGorder.TRGorder.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\PasswordForm.PasswordForm.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\FormMain9.FormMain9.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\MonthEndForm.MonthEndForm.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\FormMain7.FormMain7.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\QueryResults.QueryResults.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\QueryBuilder.QueryBuilder.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\Information.Information.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\GetBR60BOs.GetBR60BOs.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\GetBR30BOs.GetBR30BOs.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\Login_Form.LoginForm.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\OnHandOnPo_Form.OnHandOnPO_Form.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\Fuse5Export.Fuse5Export_Form.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\FormMain8.FormMain8.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\PaintVsSandpaper_Form.PaintVsSandpaper_Form.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\PartPerDay_Form.PartPerDay_Form.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.Properties.Resources.resources
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\theAutopartRecords.csproj.GenerateResource.cache
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\theAutopartRecords.csproj.CoreCompileInputs.cache
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\theAutopartRecords.csproj.CopyComplete
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\the Autopart Apparatus.exe
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\the Autopart Apparatus.pdb
+C:\Users\adodge\Documents\Visual Studio 2022\The Autopart Apparatus\ZZZ_FRT_Lines\obj\Debug\ZZZ_FRT_Lines.kitCreator.resources
