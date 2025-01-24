@@ -1,0 +1,45 @@
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\x64\Debug\Dapper.dll
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\x64\Debug\System.Management.Automation.dll
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\x64\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\x64\Debug\Dapper.xml
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\x64\Debug\System.Management.Automation.xml
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\theAutopartRecords.csprojAssemblyReference.cache
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\Fuse5Export.Fuse5Export_Form.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\PartPerDay_Form.PartPerDay_Form.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\ZZZ_FRT_Lines.ZZZFRT_Form.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\ZZZ_FRT_Lines.Properties.Resources.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\theAutopartRecords.csproj.GenerateResource.cache
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\theAutopartRecords.csproj.CoreCompileInputs.cache
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\theAutopartRecords.csproj.CopyComplete
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\x64\Debug\the Autopart Apparatus.exe.config
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\x64\Debug\the Autopart Apparatus.exe
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\bin\x64\Debug\the Autopart Apparatus.pdb
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\the Autopart Apparatus.exe
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\the Autopart Apparatus.pdb
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\BR60generated.BR60GeneratedLines_Form.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\OnHandOnPo_Form.OnHandOnPO_Form.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\PaintVsSandpaper_Form.PaintVsSandpaper_Form.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\BranchRebates.BranchRebates_Form.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\Login_Form.LoginForm.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\GetBR30BOs.GetBR30BOs.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\GetBR60BOs.GetBR60BOs.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\Information.Information.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\QueryBuilder.QueryBuilder.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\QueryResults.QueryResults.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\MMMPoS.MMMPoS.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\FormMain7.FormMain7.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\MonthEndForm.MonthEndForm.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\FormMain9.FormMain9.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\PasswordForm.PasswordForm.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\FillRate.FillRateReport.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\TRGorder.TRGorder.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\GetReturnNote.getReturnNote.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\OnBOonSU.OnBOonPO.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\AutologuePricing.AutologuePriceBuilder.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\FormMain3.FormMain3.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\FormMain8.FormMain8.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\FVBC.FVBC.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\LastReceived.LastReceived.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\wmsSort.wmsSort.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\WIXreport.WIXReport.resources
+C:\Users\adodge\source\repos\AutopartApparatus\ZZZ_FRT_Lines\obj\x64\Debug\SetStock.SetStock.resources

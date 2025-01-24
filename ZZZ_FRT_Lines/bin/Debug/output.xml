@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="eBIS_MAM.xsl"?>
+<biztalk_1 xmlns="urn:schemas-biztalk-org:biztalk:biztalk_1">
+  <header>
+    <delivery>
+      <message />
+      <to>
+        <address />
+      </to>
+      <from>
+        <address />
+      </from>
+    </delivery>
+    <manifest>
+      <document>
+        <name>Order</name>
+        <description>OW Order</description>
+      </document>
+    </manifest>
+  </header>
+  <body>
+    <Order xmlns="urn:www.basda.org/schema/eBIS-XML_order_v3.00.xml">
+      <OrderHead>
+        <OriginatingSoftware>
+          <SoftwareProduct>ACX-MERI</SoftwareProduct>
+        </OriginatingSoftware>
+        <OrderType Code="PUO" />
+        <Function Code="FIO" />
+      </OrderHead>
+      <OrderReferences>
+        <BuyersOrderNumber></BuyersOrderNumber>
+        <SuppliersOrderReference>Apparatus</SuppliersOrderReference>
+      </OrderReferences>
+      <OrderDate>2024-05-13T13:18</OrderDate>
+      <Supplier>
+        <SupplierReferences>
+          <BuyersCodeForSupplier>BR48</BuyersCodeForSupplier>
+        </SupplierReferences>
+      </Supplier>
+      <Buyer>
+        <BuyerReferences>
+          <SuppliersCodeForBuyer>84094</SuppliersCodeForBuyer>
+        </BuyerReferences>
+        <Party>MERI</Party>
+        <Address />
+        <Contact>
+          <DDI />
+          <Email />
+        </Contact>
+      </Buyer>
+      <Delivery>
+        <DeliverTo>
+          <DeliverToReferences>
+            <BuyersCodeForDelivery>84094</BuyersCodeForDelivery>
+          </DeliverToReferences>
+          <Party>MERI</Party>
+          <Address />
+          <Contact>
+            <DDI />
+            <Email />
+          </Contact>
+        </DeliverTo>
+        <DeliveryInformation>Method: DEL</DeliveryInformation>
+      </Delivery>
+      <OrderLine>
+        <LineNumber>1</LineNumber>
+        <Product>
+          <BuyersProductCode>SEPH345DCP</BuyersProductCode>
+          <Description>Hypereutectic Coated Skirt Flattop Pistons H345DCP</Description>
+        </Product>
+        <Quantity>
+          <Amount>8</Amount>
+        </Quantity>
+        <Price>
+          <UnitPrice>28.46</UnitPrice>
+        </Price>
+        <OrderLineInformation />
+        <PartMessage />
+      </OrderLine>
+      <OrderLine>
+        <LineNumber>1</LineNumber>
+        <Product>
+          <BuyersProductCode>MELMPE-100BR</BuyersProductCode>
+          <Description>MELMPE-100BR Brass Freeze Plug Kit</Description>
+        </Product>
+        <Quantity>
+          <Amount>1</Amount>
+        </Quantity>
+        <Price>
+          <UnitPrice>19.1</UnitPrice>
+        </Price>
+        <OrderLineInformation />
+        <PartMessage />
+      </OrderLine>
+      <OrderLine>
+        <LineNumber>1</LineNumber>
+        <Product>
+          <BuyersProductCode>FEL260-1000</BuyersProductCode>
+          <Description>Fel Pro Overhaul Gasket Set # 260-1000 up to 1980</Description>
+        </Product>
+        <Quantity>
+          <Amount>1</Amount>
+        </Quantity>
+        <Price>
+          <UnitPrice>63.74</UnitPrice>
+        </Price>
+        <OrderLineInformation />
+        <PartMessage />
+      </OrderLine>
+      <OrderLine>
+        <LineNumber>1</LineNumber>
+        <Product>
+          <BuyersProductCode>MELIS-55E</BuyersProductCode>
+          <Description>MELIS-55E</Description>
+        </Product>
+        <Quantity>
+          <Amount>1</Amount>
+        </Quantity>
+        <Price>
+          <UnitPrice>17.99</UnitPrice>
+        </Price>
+        <OrderLineInformation />
+        <PartMessage />
+      </OrderLine>
+      <OrderLine>
+        <LineNumber>1</LineNumber>
+        <Product>
+          <BuyersProductCode>SBI121-1003</BuyersProductCode>
+          <Description>VLV KEEPER 121-1003</Description>
+        </Product>
+        <Quantity>
+          <Amount>32</Amount>
+        </Quantity>
+        <Price>
+          <UnitPrice>1.29</UnitPrice>
+        </Price>
+        <OrderLineInformation />
+        <PartMessage />
+      </OrderLine>
+      <OrderLine>
+        <LineNumber>1</LineNumber>
+        <Product>
+          <BuyersProductCode>SCT910442</BuyersProductCode>
+          <Description>New Cast/Steel STD Crankshaft 910442</Description>
+        </Product>
+        <Quantity>
+          <Amount>1</Amount>
+        </Quantity>
+        <Price>
+          <UnitPrice>335.88</UnitPrice>
+        </Price>
+        <OrderLineInformation />
+        <PartMessage />
+      </OrderLine>
+      <OrderLine>
+        <LineNumber>1</LineNumber>
+        <Product>
+          <BuyersProductCode>MELVS-739-BK</BuyersProductCode>
+          <Description>Z-28 Valve Springs to .490 Lift BULK   VS-739-BK</Description>
+        </Product>
+        <Quantity>
+          <Amount>16</Amount>
+        </Quantity>
+        <Price>
+          <UnitPrice>3.99</UnitPrice>
+        </Price>
+        <OrderLineInformation />
+        <PartMessage />
+      </OrderLine>
+      <OrderLine>
+        <LineNumber>1</LineNumber>
+        <Product>
+          <BuyersProductCode>PIOHB-4121</BuyersProductCode>
+          <Description>SBC Balancer Repair Sleeve HB-4121</Description>
+        </Product>
+        <Quantity>
+          <Amount>1</Amount>
+        </Quantity>
+        <Price>
+          <UnitPrice>14.09</UnitPrice>
+        </Price>
+        <OrderLineInformation />
+        <PartMessage />
+      </OrderLine>
+      <OrderLine>
+        <LineNumber>1</LineNumber>
+        <Product>
+          <BuyersProductCode>HAR2M139060</BuyersProductCode>
+          <Description>HAR2M139060</Description>
+        </Product>
+        <Quantity>
+          <Amount>1</Amount>
+        </Quantity>
+        <Price>
+          <UnitPrice>32.19</UnitPrice>
+        </Price>
+        <OrderLineInformation />
+        <PartMessage />
+      </OrderLine>
+      <OrderLine>
+        <LineNumber>1</LineNumber>
+        <Product>
+          <BuyersProductCode>MAHCB-663P-30(8)</BuyersProductCode>
+          <Description>MAHCB-663P-30(8) CB-663P-30(8)</Description>
+        </Product>
+        <Quantity>
+          <Amount>1</Amount>
+        </Quantity>
+        <Price>
+          <UnitPrice>29.69</UnitPrice>
+        </Price>
+        <OrderLineInformation />
+        <PartMessage />
+      </OrderLine>
+      <OrderLine>
+        <LineNumber>1</LineNumber>
+        <Product>
+          <BuyersProductCode>MAHMS-909P-30</BuyersProductCode>
+          <Description>MAHMS-909P-30</Description>
+        </Product>
+        <Quantity>
+          <Amount>1</Amount>
+        </Quantity>
+        <Price>
+          <UnitPrice>38.05</UnitPrice>
+        </Price>
+        <OrderLineInformation />
+        <PartMessage />
+      </OrderLine>
+      <OrderLine>
+        <LineNumber>1</LineNumber>
+        <Product>
+          <BuyersProductCode>DURCHP-8</BuyersProductCode>
+          <Description>Durabond Performance Cam Bearings CHP-8</Description>
+        </Product>
+        <Quantity>
+          <Amount>1</Amount>
+        </Quantity>
+        <Price>
+          <UnitPrice>34.3</UnitPrice>
+        </Price>
+        <OrderLineInformation />
+        <PartMessage />
+      </OrderLine>
+      <OrderLine>
+        <LineNumber>1</LineNumber>
+        <Product>
+          <BuyersProductCode>MELM-55HV</BuyersProductCode>
+          <Description>OIL PUMP M-55HV Hi Volume Oil Pump </Description>
+        </Product>
+        <Quantity>
+          <Amount>1</Amount>
+        </Quantity>
+        <Price>
+          <UnitPrice>40.67</UnitPrice>
+        </Price>
+        <OrderLineInformation />
+        <PartMessage />
+      </OrderLine>
+      <OrderLine>
+        <LineNumber>1</LineNumber>
+        <Product>
+          <BuyersProductCode>CMP12-211-2</BuyersProductCode>
+          <Description>MAGNUM 224/224 HYDRAULIC FLAT CAM FOR CHEV SMALL BLOCK 12-211-2</Description>
+        </Product>
+        <Quantity>
+          <Amount>1</Amount>
+        </Quantity>
+        <Price>
+          <UnitPrice>219.31</UnitPrice>
+        </Price>
+        <OrderLineInformation />
+        <PartMessage />
+      </OrderLine>
+      <OrderLine>
+        <LineNumber>1</LineNumber>
+        <Product>
+          <BuyersProductCode>SEPHT-817</BuyersProductCode>
+          <Description>LIFTER HT-817</Description>
+        </Product>
+        <Quantity>
+          <Amount>16</Amount>
+        </Quantity>
+        <Price>
+          <UnitPrice>3.99</UnitPrice>
+        </Price>
+        <OrderLineInformation />
+        <PartMessage />
+      </OrderLine>
+      <OrderLine>
+        <LineNumber>1</LineNumber>
+        <Product>
+          <BuyersProductCode>CGGC-3023XSP</BuyersProductCode>
+          <Description>Street Perf Double Row Timing Kit C-3023XSP</Description>
+        </Product>
+        <Quantity>
+          <Amount>1</Amount>
+        </Quantity>
+        <Price>
+          <UnitPrice>28.13</UnitPrice>
+        </Price>
+        <OrderLineInformation />
+        <PartMessage />
+      </OrderLine>
+      <SpecialInstructions>2021 Chevrolet Tahoe Premier</SpecialInstructions>
+    </Order>
+  </body>
+</biztalk_1>
