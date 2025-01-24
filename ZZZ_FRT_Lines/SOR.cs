@@ -1773,7 +1773,7 @@ GROUP BY
                         SELECT I.RndQty, I.CalcQty, I.[Group], I.Part, I.PDesc, I.Code1, I.BoxQty, CAST(ISNULL(Z.[0ago],0) as int) as '0ago', CAST(ISNULL(II.[1ago],0) as int) as '1ago', CAST(ISNULL(II.[2ago],0) as int) as '2ago', CAST(ISNULL(II.[3ago],0) as int) as '3ago', CAST(ISNULL(II.LocalUsageLast6,0) as int) as LocalUsageLast6, 
                         CAST(ISNULL(II.LocalUsageLast12,0) as int) as LocalUsageLast12, I.VendorWhse, I.SuggestTotal, I.CaseQty, I.PalletQty, I.Code3
                         FROM CTE I LEFT OUTER JOIN
-                        CTE1 Z on I.Part = Z.Part INNER JOIN 
+                        CTE1 Z on I.Part = Z.Part LEFT JOIN 
                         CTE2 II ON I.Part = II.Part
                         GROUP BY I.RndQty, I.CalcQty, I.[Group], I.Part, I.PDesc, I.Code1, I.BoxQty, LocalUsageLast6, Z.[0ago], II.[1ago], II.[2ago], II.[3ago], II.LocalUsageLast12, I.VendorWhse, I.SuggestTotal, I.CaseQty, I.PalletQty, I.Code3
                         ORDER BY I.VendorWhse, I.Part";
